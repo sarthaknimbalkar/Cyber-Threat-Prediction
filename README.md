@@ -33,6 +33,10 @@ To get started with the project, follow these steps:
 2. Install the necessary dependencies listed in `requirements.txt`.
 3. Run the web application using Flask.
 
+## Images
+
+- Images have been attached for reference.
+
 ## Contributions
 
 Contributions to the project are welcome! Feel free to open issues for any bugs or feature requests, and submit pull requests with your enhancements.
